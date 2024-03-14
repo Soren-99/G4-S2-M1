@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95e665ac-8669-46f4-b4e1-ef9b7d61f6ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sorenrahimi/ApplicationTest.java" afterDir="false" />
+    <list default="true" id="95e665ac-8669-46f4-b4e1-ef9b7d61f6ce" name="Changes" comment="esercizio1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/ExpensiveProductFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/SalesCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorenrahimi/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorenrahimi/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sorenrahimi/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710425335846</updated>
     </task>
+    <task id="LOCAL-00001" summary="esercizio1">
+      <option name="closed" value="true" />
+      <created>1710431582132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710431582132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="esercizio1" />
+    <option name="LAST_COMMIT_MESSAGE" value="esercizio1" />
   </component>
 </project>
